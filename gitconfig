@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = moritz@quast.co
+	name = Moritz Quast
